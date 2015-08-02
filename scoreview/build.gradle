@@ -2,13 +2,13 @@ apply plugin: 'com.android.library'
 
 ext {
 	bintrayRepo = 'maven'
-	bintrayName = 'scoreview'
+	bintrayName = 'ScoreView'
 
-	publishedGroupId = 'com.inthecheesefactory.thecheeselibrary'
+	publishedGroupId = 'com.svdroid.scoreview'
 	libraryName = 'ScoreView'
 	artifact = 'ScoreView'
 
-	libraryDescription = ''
+	libraryDescription = 'A wrapper for Facebook Native Like Button (LikeView) on Android'
 
 	siteUrl = 'https://github.com/SvyatoslavLynda/ScoreView'
 	gitUrl = 'https://github.com/SvyatoslavLynda/ScoreView.git'
@@ -45,3 +45,6 @@ android {
 dependencies {
 	compile fileTree(dir: 'libs', include: ['*.jar'])
 }
+
+apply from: '../install.gradle'
+apply from: '../bintray.gradle'
