@@ -1,0 +1,130 @@
+<resources>
+	<string name="app_name">Secure Cashless</string>
+	<string name="action_main">com.kelvin.banksecurety.action.MAIN</string>
+
+	<string name="back_title">Back</string>
+
+	<string name="title_welcome">Welcome</string>
+	<string name="subtitle_welcome">Secure Cashless is a comprehensive Customer Security Awareness Program that educate retail and commercial bank customer about sophisticated cyber crime and mitigation techniques</string>
+	<string name="btn_swipe_to_begin">Swipe to Begin</string>
+
+	<string name="item_1">Introduction</string>
+	<string name="item_2">Internet Banking Safety</string>
+	<string name="item_3">Identity Theft</string>
+	<string name="item_4">Online Shopping Safety</string>
+	<string name="item_5">Avoiding Email and Website Fraud</string>
+	<string name="item_6">Avoiding Credit Card Fraud</string>
+	<string name="item_7">Password Security</string>
+	<string name="item_8">Social Engineering</string>
+	<string name="item_9">Quiz</string>
+
+	<string-array name="text_1">
+		<item>text_1_1</item>
+		<item>text_1_2</item>
+		<item>text_1_3</item>
+		<item>text_1_4</item>
+		<item>text_1_5</item>
+		<item>text_1_6</item>
+		<item>text_1_7</item>
+		<item>text_1_8</item>
+	</string-array>
+
+	<string-array name="text_2">
+		<item>text_2_1</item>
+		<item>text_2_2</item>
+		<item>text_2_3</item>
+		<item>text_2_4</item>
+		<item>text_2_5</item>
+		<item>text_2_6</item>
+		<item>text_2_7</item>
+		<item>text_2_8</item>
+	</string-array>
+
+	<string-array name="text_3">
+		<item>text_3_1</item>
+		<item>text_3_2</item>
+		<item>text_3_3</item>
+		<item>text_3_4</item>
+		<item>text_3_5</item>
+		<item>text_3_6</item>
+		<item>text_3_7</item>
+		<item>text_3_8</item>
+	</string-array>
+
+	<string name="title_quiz_welcome">Assess Your Risk</string>
+	<string name="subtitle_quiz_welcome">Learn how to detect common frauds and protect your own identity. The Quiz helps evaluate your Program\'s effectiveness in accordance with Information Security Best Practise.</string>
+	<string name="title_quiz_result">Quiz Result</string>
+
+	<string name="btn_next_title">Next</string>
+	<string name="btn_try_again_title">Try again</string>
+	<string name="title_ranking">Ranking:</string>
+
+	<string-array name="questions">
+		<item>It is ok to enter personal data at a website whose URL begins with http:// ? </item>
+		<item>If you lose or your credit/ATM card was stolen, what should you do?</item>
+		<item>It is ok to use the password for ten or more account as long as the password is considered strong?</item>
+		<item>It is proper to properly login your online banking account using a public Wi-Fi hot spot such as cyber café or restaurant?</item>
+		<item>Your tablet is damaged and needs to be repaired. You need to take it to your local computer shop. However, there are sensitive files on your device. What do you do before leaving your tablet for repair?</item>
+		<item>What terms describes masquerading as a trustworthy source such as a bank, and requesting a password, credit card number or other personal information from a user?</item>
+		<item>When you sign up for social media, your contact information is totally secure.</item>
+		<item>Which of the following is the most commonly used, and therefore the weakest password?</item>
+		<item>Which of the following is a good way to create a password?</item>
+		<item>Which of the following would be the best password?</item>
+		<item>When I finished with a website that required me to sign in, such as webmail or online banking, what should I do?</item>
+		<item>When your bank use email to verify your account or personal information you should always call them instead of clicking any links with the email?</item>
+		<item>It is proper to click a link as long as the link is through a popular search site like Facebook, Google or Yahoo.</item>
+		<item>It is proper when I leave my house, I take with me only the ATM and credit cards I need for personal or business purchases.</item>
+		<item>Which of these is a way to help protect your identity from fraud?</item>
+		<item>You receive an email forwarded from a friend with instructions to forward the email again to 10 more friends or you will suffer bad luck for 10 years, what should you do?</item>
+		<item>This is an example of?</item>
+	</string-array>
+
+	<string-array name="answers">
+		<item>True; ~False;</item>
+		<item>Search for it properly; ~Contact your bank immediately; Report to the police; Get a new card from your bank;</item>
+		<item>True; ~False;</item>
+		<item>True; ~False;</item>
+		<item>I will copy all my files to a safe place before leaving my tablet for repair; ~I will copy all files and store them in a safe place. After doing so, I will delete all data including my private data from the tablet. Then I will hand my tablet over for repair; I will leave my tablet for repair without copying or deleting my files. Nobody will look at my private files;</item>
+		<item>Identity Theft; ~Phishing; Phreaking;</item>
+		<item>True; ~False;</item>
+		<item>QWERTY; 123456; PASSWORD; ~All of the above;</item>
+		<item>Your children’s or pet’s names; Using look-alike substitutions of numbers or symbols; ~A combination of upper and lowercase letters mixed with numbers and symbols; Using common names or words from the dictionary;</item>
+		<item>SecRet; ~Dp0si#Z$2; Abc123; Keyboard;</item>
+		<item>~I should log off by clicking the sign out button on the page, and then close the browser window; I can walk away from my computer as soon as the session is over, and my computer will “time out” by itself; I should open a new browser window and move on to my next web destination; I should simply power off the device;</item>
+		<item>~True; False;</item>
+		<item>True; ~False;</item>
+		<item>~True; False;</item>
+		<item>Never throw away bank statements, ATM receipts or credit cards in a usable form; If someone asks for personal information, verify why they need the information and that they are who they say they are; Update your computer with the latest antivirus and malware; ~All of the above</item>
+		<item>Delete the Email; Forward the Email; Reply to your friend using a new email and ask them to stop sending chainmail to you; ~A and C</item>
+		<item>Legitimate email; ~Phishing email</item>
+	</string-array>
+
+	<string-array name="hints">
+		<item>Sorry – The correct answer is False) Never give out your personal information such as social security number at a website whose URL never begins with https://</item>
+		<item>Sorry – The correct answer is B) If you lose your card, contact your bank immediately so that your bank can temporally block your account because when your account is blocked no one can steal your money in that account.</item>
+		<item>Sorry – The correct answer is False) No matter how strong your password is and that is the password you use for all your accounts, the theft will have access to all your other accounts if he/she successfully crack your password.</item>
+		<item>Sorry – The correct answer is False) Avoid entering passwords when using unsecured Wi-Fi connections —hackers can intercept your passwords and data over this unsecured connection.</item>
+		<item>Sorry – The correct answer is B) There is always a chance that unauthorized person may open your (private) files. Furthermore, your documents could be lost during repair. Make sure that before you take your tablet to be repaired, you have saved your files in a safe place and deleted your files from the tablet.</item>
+		<item>Sorry – The correct answer is B) Phishing is the act of sending an email to a user falsely claiming to be an established legitimate enterprise in an attempt to scam the user into surrendering private information that will be used for identity theft.</item>
+		<item>Sorry – The correct answer is False) Your contact is not totally secure, so always be careful of what information you provide because your information can become an identifier of you.</item>
+		<item>Sorry – The correct answer is D) A strong password should be eight characters long and must contain uppercase letters, lowercase letters, numbers and symbols. (Example – Col19!@£zx+)</item>
+		<item>Sorry – The correct answer is C) A good password should be eight characters long and must contain uppercase letters, lowercase letters, numbers and symbols. (Example – Col19!@£zx+)</item>
+		<item>Sorry – The correct answer is B) A good password should be eight characters long and must contain uppercase letters, lowercase letters, numbers and symbols. (Example – Col19!@£zx+)</item>
+		<item>Sorry – The correct answer is A) Always log out your online banking account when you are done</item>
+		<item>Sorry – The correct answer is True) Your bank will never contact you via email regarding anything of personal nature.</item>
+		<item>Sorry – The correct answer is False) Search engine and social network poisoning makes up 40% of malware delivery on the web.</item>
+		<item>Sorry – The correct answer is True) If your wallet or purse is lost or stolen, and you\'re carrying fewer cards, you\'ll have to make fewer calls to banks to report the losses, and the odds of fraudulent charges in your name will be lower.</item>
+		<item>Sorry – The correct answer is D)</item>
+		<item>Sorry – The correct answer is D) This type of email is called chain email. Chain e-mails cannot bring you fortune or cause bad luck, they will not make you rich and you will never get that luxury holiday. Many chain letter e-mails are hoaxes and are often considered to be a security and privacy risk. If the message is forwarded on by a person, it will usually show the names and e-mail addresses of everyone you have sent it to, and possibly the addresses of everyone the last person (from which you received it) also sent it to.</item>
+		<item>\"\"</item>
+	</string-array>
+
+	<string-array name="score_titles">
+		<item>Unaware</item>
+		<item>Beginner</item>
+		<item>Aware</item>
+		<item>Savvy</item>
+		<item>Expert</item>
+		<item>Genius</item>
+	</string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">ScoreView</string>
+	<string-array name="score_titles">
+		<item>Unaware</item>
+		<item>Beginner</item>
+		<item>Aware</item>
+		<item>Savvy</item>
+		<item>Expert</item>
+		<item>Genius</item>
+	</string-array>
+</resources>

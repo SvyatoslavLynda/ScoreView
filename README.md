@@ -1,2 +1,0 @@
-# ScoreView
-android score view

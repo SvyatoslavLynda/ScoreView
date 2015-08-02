@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="list_margin_vertical">8dp</dimen>
+	<dimen name="list_margin_horizontal">16dp</dimen>
+
+	<dimen name="margin_half_circle">32dp</dimen>
+	<dimen name="title_score_size">40dp</dimen>
+	<dimen name="circle_radius">28dp</dimen>
+	<dimen name="text_score_size">12sp</dimen>
+</resources>

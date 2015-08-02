@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="main_color">#5BD064</color>
+	<color name="color_primary_dark">#409146</color>
+	<color name="main_color_selector">#cd5bd064</color>
+
+	<color name="arc_unaware">#ae191d</color>
+	<color name="arc_beginner">#d97005</color>
+	<color name="arc_aware">#ffd800</color>
+	<color name="arc_savvy">#d5e000</color>
+	<color name="arc_expert">#82bf48</color>
+	<color name="arc_genius">#008d39</color>
+
+	<color name="arc_white_gray">#d7d7d7</color>
+	<color name="window_bg">#eeeeee</color>
+
+	<array name="arcs">
+		<item>@color/arc_unaware</item>
+		<item>@color/arc_beginner</item>
+		<item>@color/arc_aware</item>
+		<item>@color/arc_savvy</item>
+		<item>@color/arc_expert</item>
+		<item>@color/arc_genius</item>
+	</array>
+
+</resources>
