@@ -5,7 +5,7 @@ android score view
 
 ```
 dependencies {
-    compile 'cpm.svdroid.scoreview:scoreview:0.0.2'
+    compile 'com.svdroid.scoreview:scoreview:0.0.2'
 }
 ```
 
