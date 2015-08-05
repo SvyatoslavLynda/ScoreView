@@ -2,20 +2,20 @@ apply plugin: 'com.android.library'
 
 ext {
 	bintrayRepo = 'maven'
-	bintrayName = 'ScoreView'
+	bintrayName = 'scoreview'
 
-	publishedGroupId = 'com.svdroid.scoreview'
+	publishedGroupId = 'com.github.svyatoslavlynda'
 	libraryName = 'ScoreView'
-	artifact = 'ScoreView'
+	artifact = 'scoreview'
 
-	libraryDescription = 'A wrapper for Facebook Native Like Button (LikeView) on Android'
+	libraryDescription = 'ScoreView '
 
 	siteUrl = 'https://github.com/SvyatoslavLynda/ScoreView'
 	gitUrl = 'https://github.com/SvyatoslavLynda/ScoreView.git'
 
 	libraryVersion = '0.0.1'
 
-	developerId = 'svdroid'
+	developerId = 'com.github.svyatoslavlynda'
 	developerName = 'Svyatoslav Lynda'
 	developerEmail = 'svyatoslavlynda@gmail.com'
 
