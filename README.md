@@ -5,7 +5,7 @@ android score view
 
 ```
 dependencies {
-    compile 'com.githab.svyatoslavlynda.scoreview:scoreview:0.0.2'
+    compile 'com.githab.svyatoslavlynda.scoreview:scoreview:0.0.1'
 }
 ```
 
