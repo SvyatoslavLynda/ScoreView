@@ -5,11 +5,11 @@ android score view
 
 ```
 dependencies {
-    compile 'com.githab.svyatoslavlynda.scoreview:scoreview:0.0.1'
+    compile 'com.github.svyatoslavlynda:scoreview:0.0.1'
 }
 ```
 
-layout:
+<b>layout:</b>
 
 ```
 <com.githab.svyatoslavlynda.scoreview.ScoreView
@@ -19,7 +19,7 @@ layout:
 	android:layout_gravity="center"/>
 ```
 
-Activity:
+<b>Activity:</b>
 
 ```
 final ScoreView scoreBoard = (ScoreView) root.findViewById(R.id.score_board);
